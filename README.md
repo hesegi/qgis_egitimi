@@ -1,4 +1,4 @@
-# HKMO İstanbul Akademi | Özgür ve Açık Kaynaklı CBS - Temel Uygulamalar 24.04.2021
+# QGIS EĞİTİMİ
 
 ## Giriş
 Bu eğitim ile 'Özgür ve Açık Kaynaklı Coğrafi Bilgi Sistemleri' kavramına ve özgür bir masaüstü CBS yazılımı olan QGIS'e giriş yapmak amaçlanmıştır.
