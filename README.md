@@ -5,6 +5,9 @@ Bu eğitim ile 'Özgür ve Açık Kaynaklı Coğrafi Bilgi Sistemleri' kavramın
 
 <br>
 
+## Amaç 
+Uygulamalı Coğrafi Bilgi Sistemleri dersinin amacı, kamu ve özel kuruluşlara, karar verme sürecinde etkin olan coğrafi bilgi teknolojileri konusunda ve mekânsal veri yönetiminin temel ilkelerine, stratejilerine ve tekniklerine vakıf; analitik düşünme, sorun çözme ve karar verme yetenekleri ile donanmış öğrenciler yetiştirmektir.
+
 ## Eğitime Hazırlık
 Bu dokümandaki tüm uygulamalarda QGIS 3.30 sürümü kullanılmıştır. [QGIS](https://qgis.org/en/site/forusers/download.html) web sayfasından kullanılan işletim sistemine uygun kurulum dosyalarına ulaşılabilir.
 
