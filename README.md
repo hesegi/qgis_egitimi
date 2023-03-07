@@ -29,7 +29,7 @@ Eğitim sonunda katılımcıların şu konularda temel yetkinliğe sahip olacakl
 <br>
 
 ## Eğitim Dokümanları
-- [ Coğrafi Bilgi Sistemleri Temel Kavramlar] (https://acikders.tuba.gov.tr/pluginfile.php/688/mod_resource/content/2/ders_notlari/Unite1_giris_guncel.pdf)
+- [ Coğrafi Bilgi Sistemleri Temel Kavramlar](https://acikders.tuba.gov.tr/pluginfile.php/688/mod_resource/content/2/ders_notlari/Unite1_giris_guncel.pdf)
 - [1. Vektörler ile Çalışma](https://github.com/batuwan/qgis_egitimi/blob/main/1_Vektorler/vektor_analizi.md)
 
 - [2. Raster Veriler ile Çalışma](https://github.com/batuwan/qgis_egitimi/blob/main/2_Raster/raster_veriler.md)
