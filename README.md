@@ -6,7 +6,7 @@ Bu eğitim ile 'Özgür ve Açık Kaynaklı Coğrafi Bilgi Sistemleri' kavramın
 <br>
 
 ## Eğitime Hazırlık
-Bu dokümandaki tüm uygulamalarda QGIS 3.16 sürümü kullanılmıştır. [QGIS](https://qgis.org/en/site/forusers/download.html) web sayfasından kullanılan işletim sistemine uygun kurulum dosyalarına ulaşılabilir.
+Bu dokümandaki tüm uygulamalarda QGIS 3.30 sürümü kullanılmıştır. [QGIS](https://qgis.org/en/site/forusers/download.html) web sayfasından kullanılan işletim sistemine uygun kurulum dosyalarına ulaşılabilir.
 
 <br>
 
